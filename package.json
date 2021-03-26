@@ -1,0 +1,29 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BjMemoryQ/loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BjMemoryQ/loader/issues"
+  },
+  "homepage": "https://github.com/BjMemoryQ/loader#readme",
+  "dependencies": {
+    "marked": "^2.0.1",
+    "webpack": "^5.28.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "webpack-cli": "^3.3.12"
+  }
+}
